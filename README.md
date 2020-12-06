@@ -9,8 +9,10 @@ Table of content:
 1.	Purpose: The main purpose of this project is to improve the codebase accessibility to meet the standards 
 
 2.	Codebase files:
-•	HTML file
-•	CSS file
+
+ •	HTML file
+ 
+ •	CSS file
 
 3.	Improvements:
 •	HTML file:
